@@ -1,0 +1,5 @@
+# Local executable and wallet data
+/wlchecker
+/wlchecker.exe
+/keys.txt
+/report*.json
